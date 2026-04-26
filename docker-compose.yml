@@ -1,0 +1,13 @@
+services:
+  sh-conv:
+    build: .
+    ports:
+      - "5353:5353"
+      - "5352:5352"
+    volumes:
+      - ./data:/app/data
+      - ./config.json:/app/config.json
+    restart: unless-stopped
+    environment:
+      - PORT=5353
+      - BACKEND_PORT=5352
