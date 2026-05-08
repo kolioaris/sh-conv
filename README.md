@@ -9,7 +9,9 @@
   [Documentation](https://kolioaris.xyz/docs/sh-conv/) • [Docker](https://hub.docker.com/repository/docker/kolioaris/sh-conv)
   
 </div>
-<br/>
+
+---
+
 <div align="center">
   
   [![Discord](https://img.shields.io/discord/1474360374798188709)](https://discord.gg/cUc9gpsaUF) [![Contributors](https://img.shields.io/github/contributors/kolioaris/sh-conv)](https://github.com/kolioaris/sh-conv/graphs/contributors) [![Downloads](https://img.shields.io/github/downloads/kolioaris/sh-conv/total)](https://github.com/kolioaris/sh-conv/releases)
@@ -18,6 +20,7 @@
   
 </div>
 
+---
 
 **sh-conv** is a self-hosted website/app that lets you convert files to different formats, as well as download media from a big variety of applications
 
